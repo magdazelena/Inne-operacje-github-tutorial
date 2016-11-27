@@ -12,3 +12,9 @@ ol li{
 ul li:first-child{
 	margin-top: 1em;
 }
+
+ul
+{
+	border: 1px solid #000;
+	width: 100px;
+}
